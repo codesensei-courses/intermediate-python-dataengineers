@@ -1,1 +1,11 @@
-# DE_fundamentals
+# Intermediate Python for Data Engineers
+
+Companion repository of Wortell Learning's training [Intermediate Python for Data Engineers](https://www.wortell.nl/nl/smart-learning/intermediate-python-voor-data-engineers).
+
+Interested in this training? Please contact [smartlearning@wortell.nl](mailto:smartlearning@wortell.nl).
+
+We offer this training:
+
+* In open enrollment classroom (so you can enroll individually)
+* As an elearning
+* In-company, just for your team and organization
