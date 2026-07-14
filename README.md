@@ -10,8 +10,13 @@ We offer this training:
 * As an elearning
 * In-company, just for your team and organization
 
-** Extra materialen
+## Extra materialen
 
 Python intro: https://www.codesensei.nl/courses/python-foundations 
 Username: guido
 Wachtwoord: python
+
+## Verder
+- [Best Practices](https://codesensei.nl/courses/shared/presentaties/high_cohesion_loose_coupling.html)
+- [pep8](pep8.org) style guide
+- [ruff](https://docs.astral.sh/ruff/) linter
