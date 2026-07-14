@@ -9,3 +9,9 @@ We offer this training:
 * In open enrollment classroom (so you can enroll individually)
 * As an elearning
 * In-company, just for your team and organization
+
+** Extra materialen
+
+Python intro: https://www.codesensei.nl/courses/python-foundations 
+Username: guido
+Wachtwoord: python
